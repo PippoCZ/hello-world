@@ -1,6 +1,3 @@
 # hello-world
-testovaci repozitar
-co treba tohle?
+my branch
 
-
-test desktopu
